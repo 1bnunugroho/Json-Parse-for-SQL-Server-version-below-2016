@@ -1,5 +1,3 @@
-USE [HEKSAAPI]
-GO
 
 /****** Object:  UserDefinedFunction [dbo].[parseJSON]    Script Date: 6/14/2019 11:23:06 AM ******/
 DROP FUNCTION [dbo].[parseJSON]
